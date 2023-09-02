@@ -1,0 +1,28 @@
+body{
+	font-family: cursive;
+	padding: 0;
+	color: black;
+	margin-left: 40px;
+	align-items: center;
+	/*====background-color: gray;====*/
+}
+.ourservices h1{
+	margin-left: 400px;
+	font-family: sans-serif;
+
+}
+.ourservices h2{
+	margin-left: 150px;
+}
+.ourservices p{
+	margin: 0px;
+	width: 800px;
+	margin-left: 150px;
+}
+.activities{
+	margin-left: 200px;
+
+}
+.activities img{
+	border-radius: 2s0%;
+}
